@@ -6,6 +6,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
+    "gatsby-plugin-manifest": "^4.12.1",
     "i": "^0.3.7",
     "material-ui": "^0.20.2",
     "npm": "^8.6.0",
